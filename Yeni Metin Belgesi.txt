@@ -1,0 +1,30 @@
+HTML 1-ci versiyasi 1995-ci ilde cixmishdir.
+2-ci versiyanin cixmasi ile dil standartlashdirildi ve bir cox brauzerler terefinden desteklenildi.
+
+HTML 3-cu versiyasinda cedveller yaratmaq imkani yaranmishdi.3.2 versiya cixmaqla butun brauzerler terefinden desteklenme saglandi.
+
+bu versiya veb-dizayn ishlerinde istifade olunurdu .Versiya 4de evvelki versiyadan ferqli olaraq table.larda ve form.larda deyishiklikler oldu.
+
+
+
+Atribut ferqleri:
+
+-'accesskey' atributu-form feildlerine klaviyatura vasitesile baglanmaga imkan yaradir
+
+- 'readonly'-muellif fieldi deyishmeye icaze verir.
+
+- 'input' elememtine yeni 'accept' atributu elave olunur ki,buda icaze verir ki,muellif movcud media ve ya naxish tiplerini daxil ede bilsin.
+
+- 'button' elementi yalnizca gonderme ve sifirlamada daha cox zengin formlar yaratmaga imkan yaradir.
+
+-'form' elementine 'accept-charset' atributu elave olunur,xarakterlerin spesifik listini ozunde saxlayir.
+
+
+
+  HTML5in HTML4den bir nece ferqi vardir:
+
+-xetali bicimlendirilmish dakumentlerin ishlemesinde tutarliliq
+
+-daha yaxshi web aplikasiya xususiyyetleri.
+
+-semantic elementlerin tekmilleshdirilmesi.<article>, <section>, <header>, <aside> ve <nav> elave olunmushdur.
