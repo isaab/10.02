@@ -9,15 +9,15 @@ bu versiya veb-dizayn ishlerinde istifade olunurdu .Versiya 4de evvelki versiyad
 
 Atribut ferqleri:
 
--'accesskey' atributu-form feildlerine klaviyatura vasitesile baglanmaga imkan yaradir
+-<accesskey> atributu-form feildlerine klaviyatura vasitesile baglanmaga imkan yaradir
 
-- 'readonly'-muellif fieldi deyishmeye icaze verir.
+- <readonly>-muellif fieldi deyishmeye icaze verir.
 
-- 'input' elememtine yeni 'accept' atributu elave olunur ki,buda icaze verir ki,muellif movcud media ve ya naxish tiplerini daxil ede bilsin.
+- <input> elememtine yeni 'accept' atributu elave olunur ki,buda icaze verir ki,muellif movcud media ve ya naxish tiplerini daxil ede bilsin.
 
-- 'button' elementi yalnizca gonderme ve sifirlamada daha cox zengin formlar yaratmaga imkan yaradir.
+- <button> elementi yalnizca gonderme ve sifirlamada daha cox zengin formlar yaratmaga imkan yaradir.
 
--'form' elementine 'accept-charset' atributu elave olunur,xarakterlerin spesifik listini ozunde saxlayir.
+-<form> elementine 'accept-charset' atributu elave olunur,xarakterlerin spesifik listini ozunde saxlayir.
 
 
 
